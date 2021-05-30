@@ -71,48 +71,6 @@ function Footer() {
                     <small class='website-rights'>Hannes Klein © 2021</small>
                     <br/>
                     <small className='icon-rights'>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></small>
-                    <div class='social-icons'>
-                        <Link
-                            class='social-icon-link facebook'
-                            to='/'
-                            target='_blank'
-                            aria-label='Facebook'
-                        >
-                            <i class='fab fa-facebook-f' />
-                        </Link>
-                        <Link
-                            class='social-icon-link instagram'
-                            to='/'
-                            target='_blank'
-                            aria-label='Instagram'
-                        >
-                            <i class='fab fa-instagram' />
-                        </Link>
-                        <Link
-                            class='social-icon-link youtube'
-                            to='/'
-                            target='_blank'
-                            aria-label='Youtube'
-                        >
-                            <i class='fab fa-youtube' />
-                        </Link>
-                        <Link
-                            class='social-icon-link twitter'
-                            to='/'
-                            target='_blank'
-                            aria-label='Twitter'
-                        >
-                            <i class='fab fa-twitter' />
-                        </Link>
-                        <Link
-                            class='social-icon-link twitter'
-                            to='/'
-                            target='_blank'
-                            aria-label='LinkedIn'
-                        >
-                            <i class='fab fa-linkedin' />
-                        </Link>
-                    </div>
                 </div>
             </section>
         </div>
