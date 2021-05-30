@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Bienenhotel/static/css/main.9ff9819a.chunk.css",
-    "main.js": "/Bienenhotel/static/js/main.0ca78d4b.chunk.js",
-    "main.js.map": "/Bienenhotel/static/js/main.0ca78d4b.chunk.js.map",
+    "main.js": "/Bienenhotel/static/js/main.d38a12ea.chunk.js",
+    "main.js.map": "/Bienenhotel/static/js/main.d38a12ea.chunk.js.map",
     "runtime-main.js": "/Bienenhotel/static/js/runtime-main.d7e7a03f.js",
     "runtime-main.js.map": "/Bienenhotel/static/js/runtime-main.d7e7a03f.js.map",
     "static/js/2.e40cb0af.chunk.js": "/Bienenhotel/static/js/2.e40cb0af.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d7e7a03f.js",
     "static/js/2.e40cb0af.chunk.js",
     "static/css/main.9ff9819a.chunk.css",
-    "static/js/main.0ca78d4b.chunk.js"
+    "static/js/main.d38a12ea.chunk.js"
   ]
 }
