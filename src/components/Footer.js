@@ -69,6 +69,8 @@ function Footer() {
                         </Link>
                     </div>
                     <small class='website-rights'>Hannes Klein © 2021</small>
+                    <br/>
+                    <small className='icon-rights'>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></small>
                     <div class='social-icons'>
                         <Link
                             class='social-icon-link facebook'
