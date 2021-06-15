@@ -6,7 +6,7 @@ function HeroSection() {
     return (
         <div className='hero-container'>
             <h1>Wildbienennisthilfe</h1>
-            <p>Schaut euch doch mal um!</p>
+            <p>Willkommen auf unserer Website!</p>
         </div>
     );
 }

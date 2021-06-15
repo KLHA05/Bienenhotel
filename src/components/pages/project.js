@@ -5,7 +5,7 @@ import Footer from "../Footer";
 export default function Project(){
     return(
         <div>
-            <h1 className="project"></h1>
+            <div className="project"></div>
 
             <Footer/>
 
