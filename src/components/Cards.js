@@ -11,14 +11,14 @@ function Cards() {
                     <ul className='cards__items'>
                         <CardItem
                             src='https://www.tagesspiegel.de/images/extreme-magnification-honey-bee/24680756/2-format43.jpg'
-                            text='Das sind wir!'
-                            label='Information'
+                            text='Die Seminarfacharbeit'
+                            label='Alle wichtigen Infos'
                             path='/about'
                         />
                         <CardItem
                             src='https://www.dieversicherer.de/resource/image/3534/1x1/640/640/7d970a42588a29ce33174fe0e653b95b/oI/bild-wie-imker-gegen-bienen-sterben-versichert-sind.jpg'
-                            text='Das ist unser Bienenhotel!'
-                            label='Projekt'
+                            text='Unser Projekt'
+                            label='Informationen zur Wildbienennisthilfe'
                             path='/project'
                         />
                     </ul>
