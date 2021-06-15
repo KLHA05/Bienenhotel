@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Bienenhotel/static/css/main.9ff9819a.chunk.css",
-    "main.js": "/Bienenhotel/static/js/main.99d2bf16.chunk.js",
-    "main.js.map": "/Bienenhotel/static/js/main.99d2bf16.chunk.js.map",
+    "main.css": "/Bienenhotel/static/css/main.a890337b.chunk.css",
+    "main.js": "/Bienenhotel/static/js/main.9a57bd9a.chunk.js",
+    "main.js.map": "/Bienenhotel/static/js/main.9a57bd9a.chunk.js.map",
     "runtime-main.js": "/Bienenhotel/static/js/runtime-main.d7e7a03f.js",
     "runtime-main.js.map": "/Bienenhotel/static/js/runtime-main.d7e7a03f.js.map",
-    "static/js/2.e40cb0af.chunk.js": "/Bienenhotel/static/js/2.e40cb0af.chunk.js",
-    "static/js/2.e40cb0af.chunk.js.map": "/Bienenhotel/static/js/2.e40cb0af.chunk.js.map",
+    "static/js/2.22b90223.chunk.js": "/Bienenhotel/static/js/2.22b90223.chunk.js",
+    "static/js/2.22b90223.chunk.js.map": "/Bienenhotel/static/js/2.22b90223.chunk.js.map",
     "index.html": "/Bienenhotel/index.html",
-    "static/css/main.9ff9819a.chunk.css.map": "/Bienenhotel/static/css/main.9ff9819a.chunk.css.map",
-    "static/js/2.e40cb0af.chunk.js.LICENSE.txt": "/Bienenhotel/static/js/2.e40cb0af.chunk.js.LICENSE.txt",
-    "static/media/HeroSection.css": "/Bienenhotel/static/media/img.9de2f4c3.png",
-    "static/media/App.css": "/Bienenhotel/static/media/presse.9582a4bc.jpg"
+    "static/css/main.a890337b.chunk.css.map": "/Bienenhotel/static/css/main.a890337b.chunk.css.map",
+    "static/js/2.22b90223.chunk.js.LICENSE.txt": "/Bienenhotel/static/js/2.22b90223.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Bienenhotel/static/media/project.f7d58acc.jpeg",
+    "static/media/HeroSection.css": "/Bienenhotel/static/media/background.be2a0ad8.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.d7e7a03f.js",
-    "static/js/2.e40cb0af.chunk.js",
-    "static/css/main.9ff9819a.chunk.css",
-    "static/js/main.99d2bf16.chunk.js"
+    "static/js/2.22b90223.chunk.js",
+    "static/css/main.a890337b.chunk.css",
+    "static/js/main.9a57bd9a.chunk.js"
   ]
 }
