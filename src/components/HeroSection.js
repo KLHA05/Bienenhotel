@@ -5,7 +5,7 @@ import './HeroSection.css';
 function HeroSection() {
     return (
         <div className='hero-container'>
-            <h1>Bienenhotel</h1>
+            <h1>Wildbienennisthilfe</h1>
             <p>Schaut euch doch mal um!</p>
         </div>
     );

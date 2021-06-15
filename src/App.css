@@ -16,7 +16,7 @@
 }
 
 .about {
-    background-image: url('components/assets/images/presse.jpg');
+    background-image: url('components/assets/images/about.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -25,7 +25,7 @@
 }
 
 .project {
-    background-image: url('components/assets/images/img_1.png');
+    background-image: url('components/assets/images/project.jpeg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
