@@ -5,6 +5,7 @@ import Home from "./components/pages/Home";
 import About from "./components/pages/about";
 import Project from "./components/pages/project";
 import impressum from "./components/pages/impressum";
+import gallery from "./components/pages/gallery";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
                 <Route path="/about" component={About}/>
                 <Route path="/project" component={Project}/>
                 <Route path="/impressum" component={impressum}/>
+                <Route path="/gallery" component={gallery}/>
             </Switch>
         </Router>
 
