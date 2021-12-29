@@ -1,14 +1,16 @@
 import React from "react";
 import '../../App.css';
+import bee from '../assets/images/background.jpeg';
+import press from '../assets/images/presse.jpg';
 import { Carousel } from 'react-carousel-minimal';
 
 const data = [
     {
-        image:'http://homepage.gymnasium-arnstadt.de/wp-content/uploads/2021/11/image0.jpeg',
+        image: press,
         caption: 'Zeitungsbild'
     },
     {
-        image: '/Users/hakl05/Programmierung/Bienenhotel/src/components/assets/images/background.jpeg',
+        image: bee,
         caption: 'Hintergrund'
     }
 ];
@@ -40,7 +42,7 @@ function gallery(){
                         slideNumber={true}
                         slideNumberStyle={slideNumberStyle}
                         captionPosition="bottom"
-                        automatic={true}
+                        automatic={false}
                         dots={true}
                         pauseIconColor="white"
                         pauseIconSize="40px"

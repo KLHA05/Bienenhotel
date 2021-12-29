@@ -80,6 +80,11 @@ function Navbar(){
                         </Link>
                         {dropdown2 && <Dropdown2/>}
                     </li>
+                    <li className='nav-item'>
+                        <Link to= "/gallery" className="nav-links" onClick={closeMobileMenu}>
+                            Bildergalerie
+                        </Link>
+                    </li>
                 </ul>
             </div>
         </nav>
