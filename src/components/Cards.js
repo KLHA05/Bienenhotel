@@ -16,7 +16,7 @@ function Cards() {
                             path='/about'
                         />
                         <CardItem
-                            src='https://www.dieversicherer.de/resource/image/3534/1x1/640/640/7d970a42588a29ce33174fe0e653b95b/oI/bild-wie-imker-gegen-bienen-sterben-versichert-sind.jpg'
+                            src='https://www.scinexx.de/wp-content/uploads/b/i/bienenzahleng.jpg'
                             text='Unser Projekt'
                             label='Informationen zur Wildbienennisthilfe'
                             path='/project'
