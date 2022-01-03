@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/Bienenhotel/static/css/main.a890337b.chunk.css",
-    "main.js": "/Bienenhotel/static/js/main.9a57bd9a.chunk.js",
-    "main.js.map": "/Bienenhotel/static/js/main.9a57bd9a.chunk.js.map",
-    "runtime-main.js": "/Bienenhotel/static/js/runtime-main.d7e7a03f.js",
-    "runtime-main.js.map": "/Bienenhotel/static/js/runtime-main.d7e7a03f.js.map",
-    "static/js/2.22b90223.chunk.js": "/Bienenhotel/static/js/2.22b90223.chunk.js",
-    "static/js/2.22b90223.chunk.js.map": "/Bienenhotel/static/js/2.22b90223.chunk.js.map",
+    "main.css": "/Bienenhotel/static/css/main.e6facb68.chunk.css",
+    "main.js": "/Bienenhotel/static/js/main.f72fe68b.chunk.js",
+    "main.js.map": "/Bienenhotel/static/js/main.f72fe68b.chunk.js.map",
+    "runtime-main.js": "/Bienenhotel/static/js/runtime-main.575296b2.js",
+    "runtime-main.js.map": "/Bienenhotel/static/js/runtime-main.575296b2.js.map",
+    "static/css/2.d4115035.chunk.css": "/Bienenhotel/static/css/2.d4115035.chunk.css",
+    "static/js/2.e0de40e3.chunk.js": "/Bienenhotel/static/js/2.e0de40e3.chunk.js",
+    "static/js/2.e0de40e3.chunk.js.map": "/Bienenhotel/static/js/2.e0de40e3.chunk.js.map",
     "index.html": "/Bienenhotel/index.html",
-    "static/css/main.a890337b.chunk.css.map": "/Bienenhotel/static/css/main.a890337b.chunk.css.map",
-    "static/js/2.22b90223.chunk.js.LICENSE.txt": "/Bienenhotel/static/js/2.22b90223.chunk.js.LICENSE.txt",
+    "static/css/2.d4115035.chunk.css.map": "/Bienenhotel/static/css/2.d4115035.chunk.css.map",
+    "static/css/main.e6facb68.chunk.css.map": "/Bienenhotel/static/css/main.e6facb68.chunk.css.map",
+    "static/js/2.e0de40e3.chunk.js.LICENSE.txt": "/Bienenhotel/static/js/2.e0de40e3.chunk.js.LICENSE.txt",
     "static/media/App.css": "/Bienenhotel/static/media/project.f7d58acc.jpeg",
-    "static/media/HeroSection.css": "/Bienenhotel/static/media/background.be2a0ad8.jpeg"
+    "static/media/HeroSection.css": "/Bienenhotel/static/media/background.be2a0ad8.jpeg",
+    "static/media/presse.9582a4bc.jpg": "/Bienenhotel/static/media/presse.9582a4bc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7e7a03f.js",
-    "static/js/2.22b90223.chunk.js",
-    "static/css/main.a890337b.chunk.css",
-    "static/js/main.9a57bd9a.chunk.js"
+    "static/js/runtime-main.575296b2.js",
+    "static/css/2.d4115035.chunk.css",
+    "static/js/2.e0de40e3.chunk.js",
+    "static/css/main.e6facb68.chunk.css",
+    "static/js/main.f72fe68b.chunk.js"
   ]
 }
