@@ -4,6 +4,7 @@ import bee from '../assets/images/background.jpeg';
 import press from '../assets/images/presse.jpg';
 import { Carousel } from 'react-carousel-minimal';
 
+
 const data = [
     {
         image: press,
@@ -13,6 +14,7 @@ const data = [
         image: bee,
         caption: 'Hintergrund'
     }
+
 ];
 const captionStyle = {
     fontSize: '2em',
@@ -28,8 +30,7 @@ function gallery(){
     return (
         <div className="Gallery">
             <div style={{ textAlign: "center" }}>
-                <h2>React Carousel Minimal</h2>
-                <p>Easy to use, responsive and customizable carousel component for React Projects.</p>
+                <h2>Bildergallerie</h2>
                 <div style={{
                     padding: "0 20px"
                 }}>
