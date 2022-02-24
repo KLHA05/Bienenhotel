@@ -13,7 +13,7 @@ function Cards() {
                             src='https://www.tagesspiegel.de/images/extreme-magnification-honey-bee/24680756/2-format43.jpg'
                             text='Die Seminarfacharbeit'
                             label='Alle wichtigen Infos'
-                            path='/about'
+                            path='/semi'
                         />
                         <CardItem
                             src='https://www.dieversicherer.de/resource/image/3534/1x1/640/640/7d970a42588a29ce33174fe0e653b95b/oI/bild-wie-imker-gegen-bienen-sterben-versichert-sind.jpg'

@@ -1,22 +1,17 @@
 export const Menuitems2 = [
     {
-        title: 'Vorstellung',
-        path: '/marketing',
-        cName: 'dropdown-link'
-    },
-    {
-        title: 'Entstehungsprozess',
-        path: '/marketing',
+        title: 'Entstehung',
+        path: '/entstehung',
         cName: 'dropdown-link'
     },
     {
         title: 'Materialien',
-        path: '/marketing',
+        path: '/materialien',
         cName: 'dropdown-link'
     },
     {
-        title: 'Erste Einzüge',
-        path: '/marketing',
+        title: 'Begrünung',
+        path: '/begruenung',
         cName: 'dropdown-link'
     }
 ];

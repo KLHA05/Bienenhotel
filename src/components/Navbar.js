@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import "./Navbar.css";
 import Dropdown from "./dropdown";
 import Dropdown2 from "./dropdown2";
+import Bee from './assets/images/bee (1).png'
 
 
 function Navbar(){
@@ -50,7 +51,7 @@ function Navbar(){
         <nav className="navbar">
             <div className="navbar-container">
                 <Link to="/" className="navbar-logo">
-                    Wildbienennisthilfe <img src='https://image.flaticon.com/icons/png/512/517/517563.png' alt='Bee' width={50} height={50}/>
+                    Wildbienennisthilfe <img src={Bee} alt='Bee' width={50} height={50}/>
                 </Link>
                 <div className='menu-icon' onClick={handleClick}>
                     <i className={click ? "fas fa-times" : "fas fa-bars"} />

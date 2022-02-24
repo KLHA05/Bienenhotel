@@ -1,6 +1,7 @@
 import React from 'react';
 import './Footer.css';
 import { Link } from 'react-router-dom';
+import Bee from './assets/images/bee (1).png'
 
 function Footer() {
     return (
@@ -24,8 +25,8 @@ function Footer() {
                 <div class='social-media-wrap'>
                     <div class='footer-logo'>
                         <Link to='/' className='social-logo'>
-                            Bienenhotel
-                            <img src="https://image.flaticon.com/icons/png/512/517/517563.png" alt='Bee' width={50} height={50}/>
+                            Wildbienennisthilfe
+                            <img src={Bee} alt='Bee' width={50} height={50}/>
                         </Link>
                     </div>
                     <small class='website-rights'>Hannes Klein © 2021</small>
