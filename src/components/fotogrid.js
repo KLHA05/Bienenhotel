@@ -1,4 +1,5 @@
 import React from "react";
+import Tablepdf from "./tablepdf";
 import img1 from './assets/images/Begrünung/IMG-20210911-WA0011.jpg';
 import img2 from './assets/images/Begrünung/IMG-20210912-WA0010.jpg';
 import img3 from './assets/images/Begrünung/IMG-20210912-WA0011.jpg';
@@ -17,7 +18,7 @@ import img15 from './assets/images/Begrünung/PXL_20210619_123818519.MP.jpg';
 import img16 from './assets/images/Begrünung/PXL_20210619_123427610.MP.jpg';
 import img17 from './assets/images/Begrünung/PXL_20210619_123807576.MP.jpg';
 import img18 from './assets/images/Begrünung/PXL_20210603_100358426.MP.jpg';
-import table from './assets/images/Bildschirmfoto 2022-02-24 um 19.03.04.png';
+
 
 
 import './fotogrid.css'
@@ -60,21 +61,24 @@ function Fotogrid(){
                 </div>
             </div>
             <div>
-                <div className='text'>
-                    <p>
-                        Um den Wildbienen neben der Nistmöglichkeit auch eine zusätzliche Nahrungsquelle zu bieten, haben wir das Dach der Nisthilfe bienenfreundlich bepflanzt.
-                        Auch auf die umliegenende Wiesenflächen haben wir zusätzlich Samen verteilt, um eine möglichst große Varianz an Blüten bereitzustellen.<br/>
+                <div className='text-container'>
+                    <div className='text'>
+                        <p>
+                            Um den Wildbienen neben der Nistmöglichkeit auch eine zusätzliche Nahrungsquelle zu bieten, haben wir das Dach der Nisthilfe bienenfreundlich bepflanzt.
+                            Auch auf die umliegenende Wiesenflächen haben wir zusätzlich Samen verteilt, um eine möglichst große Varianz an Blüten bereitzustellen.<br/>
 
-                        Was kann man selbst tun?<br/>
-                        Auch du kannst unseren kleinen Freunden helfen. Zusammen kannst du selbst Pflanzen verschiedenster Art aussäen.
-                        Wichtig dabei:<br/>
-                        Eine große Vielfalt, so dass die Wildbienen ein möglichst großes Nahrungsangebot zur Verfügung gestellt bekommen.
-                        Abwechslungsreiche Blüten, so dass möglichst das ganze Jahr über etwas blüht. (Siehe Tabelle)
-                        Und wenn du ganz spezifisch helfen möchtest, kannst du dir Pflanzen heraussuchen, die ganz spezifisch, die Wildbienen präferieren, welche in deiner Umgebung leben.
-                    </p>
+                            Was kann man selbst tun?<br/>
+                            Auch du kannst unseren kleinen Freunden helfen. Zusammen kannst du selbst Pflanzen verschiedenster Art aussäen.
+                            Wichtig dabei:<br/>
+                            Eine große Vielfalt, so dass die Wildbienen ein möglichst großes Nahrungsangebot zur Verfügung gestellt bekommen.
+                            Abwechslungsreiche Blüten, so dass möglichst das ganze Jahr über etwas blüht. (Siehe Tabelle)
+                            Und wenn du ganz spezifisch helfen möchtest, kannst du dir Pflanzen heraussuchen, die ganz spezifisch, die Wildbienen präferieren, welche in deiner Umgebung leben.
+                        </p>
+                    </div>
                 </div>
+
                 <div className='table' >
-                    <img src={table} alt='table' height='1000'/>
+                    <Tablepdf/>
                 </div>
             </div>
             </body>

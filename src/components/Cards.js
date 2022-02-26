@@ -1,6 +1,7 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
+import bee from './assets/images/wildbienen-an-einem-insekten-hotel-100-resimage_v-variantSmall16x9_w-960.jpeg';
 
 function Cards() {
     return (
@@ -16,10 +17,10 @@ function Cards() {
                             path='/semi'
                         />
                         <CardItem
-                            src='https://www.dieversicherer.de/resource/image/3534/1x1/640/640/7d970a42588a29ce33174fe0e653b95b/oI/bild-wie-imker-gegen-bienen-sterben-versichert-sind.jpg'
+                            src = {bee}
                             text='Unser Projekt'
                             label='Informationen zur Wildbienennisthilfe'
-                            path='/project'
+                            path='/entstehung'
                         />
                     </ul>
                 </div>

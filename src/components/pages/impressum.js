@@ -4,6 +4,7 @@ import Footer from "../Footer";
 
 export default function impressum(){
     return(
+
         <div className="impressum">
             <h1>Impressum</h1>
             <p>

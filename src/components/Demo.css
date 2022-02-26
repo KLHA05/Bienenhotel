@@ -24,7 +24,9 @@
 
 .demo .col-1 p:nth-child(1) {
     font-size: 1.8rem;
-    font-family: 'Source Sans Pro', sans-serif;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 30px;
 }
 
 .demo .col-1 p:nth-child(2) {

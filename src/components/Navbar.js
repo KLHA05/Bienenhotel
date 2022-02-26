@@ -76,7 +76,7 @@ function Navbar(){
                         onMouseEnter={onMouseEnter2}
                         onMouseLeave={onMouseLeave2}
                     >
-                        <Link to= "/project" className="nav-links" onClick={closeMobileMenu}>
+                        <Link to= "/entstehung" className="nav-links" onClick={closeMobileMenu}>
                             Unser Projekt
                         </Link>
                         {dropdown2 && <Dropdown2/>}
