@@ -67,7 +67,7 @@ function Navbar(){
                                     onMouseLeave={onMouseLeave}
                                     className='nav-item'
                     >
-                        <Link to= "/about" className="nav-links" onClick={closeMobileMenu}>
+                        <Link to= "/semi" className="nav-links" onClick={closeMobileMenu}>
                             Die Seminarfacharbeit
                         </Link>
                         {dropdown && <Dropdown/>}
