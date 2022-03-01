@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Document, Page, pdfjs } from "react-pdf";
 
 import 'react-pdf/dist/esm/Page/AnnotationLayer.css';
-import doc from './assets/Saatgut-Liste.pdf';
+import doc from './assets/Saatgut-Liste-seiten-gelöscht.pdf';
 import './Pdf.css';
 
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.js`;

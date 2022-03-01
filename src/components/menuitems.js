@@ -5,8 +5,8 @@ export const MenuItems = [
         cName: 'dropdown-link'
     },
     {
-        title: 'Model',
-        path: '/model',
+        title: 'Bildergalerie',
+        path: '/gallery',
         cName: 'dropdown-link'
     }
 ];
